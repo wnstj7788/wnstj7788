@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## 💡Contact
 
-### 📭 E-mail: 
+### 📭 E-mail: wnstj7788@gmail.com
 ### 📝 [Notion] / 📝 [Blog](https://blog.naver.com/wnstj7798)
 
 ---
