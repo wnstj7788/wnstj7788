@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/pyhton-1572B6?style=flat&logo=Pyhton&logoColor=white" /> 
 </div>
 
+<div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnstj7788&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=wnstj7788&show_icons=true">
+</div>
