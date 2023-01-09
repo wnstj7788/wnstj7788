@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ---
  
-![Headfish96's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseo96&show_icons=true&theme=tokyonight)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trappist96)](https://solved.ac/trappist96/)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trappist96)](https://solved.ac/wnstj7788b b/)
 
 
 ## 💡Contact
