@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ## 💡Contact
 
 ### 📭 E-mail: 
-### 📝 [Notion] / 📝 [Blog]()
+### 📝 [Notion] / 📝 [Blog](https://blog.naver.com/wnstj7798)
 
 ---
 
