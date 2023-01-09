@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 ---
 
 ## 📑 Certificate
+- 정보처리산업기사
+- 네트워크관리사
 
 
 
