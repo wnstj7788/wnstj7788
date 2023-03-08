@@ -18,12 +18,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junseo%20Git&fontSize=90" />
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <br>
+
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnstj7788&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=wnstj7788&show_icons=true">
@@ -58,6 +53,8 @@ Here are some ideas to get you started:
 
 ## BeakJoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj7788)](https://solved.ac/wnstj7788/)
+[![Most USE Profile]([http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj7788](https://github-readme-stats.vercel.app/api/top-langs/?username=wnstj7788&layout=compact))](https://solved.ac/wnstj7788/)
+[![ Profile]([http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj7788](https://github-readme-stats.vercel.app/api?username=wnstj7788&show_icons=true))](https://solved.ac/wnstj7788/)
 
 ## 💡Contact
 
