@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ---
  
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/wnstj7788/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj7788)](https://solved.ac/wnstj7788/)
 
 
 ## 💡Contact
