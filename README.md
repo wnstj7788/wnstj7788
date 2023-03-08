@@ -53,8 +53,7 @@ Here are some ideas to get you started:
 
 ## BeakJoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj7788)](https://solved.ac/wnstj7788/)
-[![Most USE Profile]([http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj7788](https://github-readme-stats.vercel.app/api/top-langs/?username=wnstj7788&layout=compact))](https://solved.ac/wnstj7788/)
-[![ Profile]([http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj7788](https://github-readme-stats.vercel.app/api?username=wnstj7788&show_icons=true))](https://solved.ac/wnstj7788/)
+
 
 ## 💡Contact
 
