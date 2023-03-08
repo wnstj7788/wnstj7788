@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junseo%20Git&fontSize=90" />
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj7788)](https://solved.ac/wnstj7788/)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -43,7 +42,8 @@ Here are some ideas to get you started:
  
 
 
-
+## BeakJoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj7788)](https://solved.ac/wnstj7788/)
 
 ## 💡Contact
 
