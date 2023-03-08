@@ -34,11 +34,12 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnstj7788&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=wnstj7788&show_icons=true">
 </div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj7788)](https://solved.ac/wnstj7788/)
 
 ---
  
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj7788)](https://solved.ac/wnstj7788/)
+
 
 
 ## 💡Contact
