@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ## 💡Contact
 
 ### 📭 E-mail: wnstj7788@gmail.com
-### 📝 [Notion] / 📝 [Blog](https://blog.naver.com/wnstj7798)
+### 📝 [Notion](https://www.notion.so/Junseo-Choi-3aa1c860b53941e09f38fa1571188e16?pvs=4) / 📝 [Blog](https://blog.naver.com/wnstj7798)
 
 ---
 
