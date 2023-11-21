@@ -58,13 +58,14 @@ Here are some ideas to get you started:
 ## 💡Contact
 
 ### 📭 E-mail: wnstj7788@gmail.com
-### 📝 [포프폴리오](https://shaded-paint-4f6.notion.site/Junseo-Choi-3aa1c860b53941e09f38fa1571188e16?pvs=4) / 📝 [Blog](https://blog.naver.com/wnstj7798)
+### 📝 [포트폴리오](https://shaded-paint-4f6.notion.site/Junseo-Choi-3aa1c860b53941e09f38fa1571188e16?pvs=4) / 📝 [Blog](https://blog.naver.com/wnstj7798)
 
 ---
 
 ## 📑 Certificate
 - 정보처리산업기사
 - 네트워크관리사
+- SQLD
 
 
 
