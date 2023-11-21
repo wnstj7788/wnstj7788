@@ -15,17 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junseo%20Git&fontSize=90" />
-
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnstj7788&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=wnstj7788&show_icons=true">
-</div>
-
-
----
  
  
 # 💪Skills
