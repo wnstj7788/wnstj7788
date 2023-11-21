@@ -18,7 +18,6 @@ Here are some ideas to get you started:
  
  
 # 💪Skills
-### Platforms & Languages
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -49,6 +48,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-#2496ED5?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
