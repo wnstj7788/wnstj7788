@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I%27m%20junseo!%F0%9F%92%90&fontSize=50)
 
 
-<p align="center"><b>As a Backend developer,</b><br>I always consider both user and team, and strongly believe my consistency. 📚✨</p>
+<p align="center"><b>As a Backend developer,</b>
 
 <br>
 
 ## 🎉 How to Reach Me @Junseo-Choi
 - ✍ [Notion Portfolio](https://shaded-paint-4f6.notion.site/3aa1c860b53941e09f38fa1571188e16?pvs=4)
-- 💌 wnstj7788@gmail.com<br><br>
+- 💌 wnstj7788@gmail.com<br>
+- 📝 [Tech Blog](https://security-gom.tistory.com/)
 
 
 ## 📚 Education & Career
