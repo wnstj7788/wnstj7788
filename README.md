@@ -58,7 +58,7 @@
 |Date|Description|
 |--|--|
 |2023.11|SSAFY 9기 자율프로젝트 우수상(3등) [WishMe](https://github.com/wnstj7788/wishMe)|
-|2022.10|SSAFY 9기 특화프로젝트(인공지능-영상) 우수상(3등) [단어 탐정](https://github.com/wnstj7788/word_detective)|
+|2023.10|SSAFY 9기 특화프로젝트(인공지능-영상) 우수상(3등) [단어 탐정](https://github.com/wnstj7788/word_detective)|
 |2022.09|해양수산 창업 콘테스트 아이디어 부분 우수상(3등) [관련 기사](https://url.kr/ex4183)|
 
 
