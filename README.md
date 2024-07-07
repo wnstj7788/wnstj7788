@@ -14,7 +14,8 @@
 ## 📚 Education & Career
 |Period|Activity|
 |--|--|
-|2023.12 ~        |Samsung Software Academy for Youth(SSAFY) 10th Coach
+|2024.06 ~ 2024.11|Samsung Software Academy for Youth(SSAFY) 11th Coach
+|2023.12 ~ 2024.05|Samsung Software Academy for Youth(SSAFY) 10th Coach
 |2023.01 ~ 2023.12|Samsung Software Academy for Youth(SSAFY) 9th, Java Track|
 |2021.04 ~ 2022.12|Korea Navy Computer Emergery Response Team |
 
@@ -24,7 +25,7 @@
 |Period|Name|Description|Role|
 |--|--|--|--|
 |2023.10 ~ 2023.11|[WishMe](https://github.com/wnstj7788/wishMe)|수험생을 위한 온라인 롤링 페이퍼 |Team Leader, Infra, Backend|
-|2023.08 ~ 2023.10|[단어 탐정](https://github.com/wnstj7788/word_detective)|AI 기반 유아 단어 학습 솔루션  |Frontend Developer|
+|2023.08 ~ 2023.10|[단어 탐정](https://github.com/wnstj7788/word_detective)|AI 기반 유아 단어 학습 솔루션  |Frontend Developer|
 |2023.07 ~ 2023.08|[NeighBrew](https://github.com/wnstj7788/NeighBrew)|취향 맞는 주종 모임 | Backend Developer|
 
 <br>
