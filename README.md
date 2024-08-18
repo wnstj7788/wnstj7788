@@ -6,7 +6,6 @@
 <br>
 
 ## 🎉 How to Reach Me @Junseo-Choi
-- ✍ [Notion Portfolio](https://shaded-paint-4f6.notion.site/3aa1c860b53941e09f38fa1571188e16?pvs=4)
 - 💌 wnstj7788@gmail.com<br>
 - 📝 [Tech Blog](https://security-gom.tistory.com/)
 
